@@ -1,0 +1,3 @@
+This is a dummy file for the images folder.
+Please replace this with your actual image file.
+The file should be used as a placeholder for testing purposes. 
